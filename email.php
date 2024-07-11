@@ -80,5 +80,5 @@ function generateRandomPassword($length = 8) {
     return $password;
 }
 ?>
-
+<html></html>
         
